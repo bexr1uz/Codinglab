@@ -1,80 +1,40 @@
-
 html{
-	background-color: gray;
+ background-color: gray;
 }
 ul{
-	list-style-type: none;
-	margin: 0;
-	padding: 0;
-	overflow: hidden;
-	background-color: #333333;
-	 margin-left: -10px;
-	 margin-right: -10px;
-	 margin-bottom: -40px;
-	 margin-top: -10px;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+  margin-left: -10px;
+  margin-right: -10px;
+  margin-bottom: -40px;
+  margin-top: -10px;
 }
 
 li{
-	float: right;
-	 
+ float: right;	 
 }
 li a { 
-	display: block;
-	color: white;
-	text-align: center;
-	padding: 16px;
-	text-decoration: none;
-
+ display: block;
+ color: white;
+ text-align: center;
+ padding: 16px;
+ text-decoration: none;
 }
 li a:hover {
-	background-color: green;
-	text-align: center;
-	width: 100%;
+  background-color: green;
+  text-align: center;
+  width: 100%;
 }
- 
 h1{
-	color: white;
-margin-top: 5px;
-margin-left: 10px;
+ color: white;
+ margin-top: 5px;
+ margin-left: 10px;
 }
 .het{
-	margin: auto;
+   margin: auto;
    border: 2px solid;
    margin-left: 10px;
 }
-      <div class="het">
-     <img src="https://stimg.cardekho.com/images/carexteriorimages/630x420/BMW/M5-2025/11821/1719462197562/front-left-side-47.jpg?impolicy=resize&imwidth=480">
-     <p>Nomi:JASUR</p>
-     <p>NARXI:2000$</p>
-     <p>ISHI:Psixolog</p>
-     <p>Nasiyaga ham beriladi</p>
-     <input type="submit" style="background-color: green;" style="text-align: center;">
-    </div>
-   <div class="het">
-     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv8dPviO3br4CMzbVH6-DQsQCLNFgFG4cRWQ&s">
-     <p>Nomi:JASUR</p>
-     <p>NARXI:2000$</p>
-     <p>ISHI:Psixolog</p>
-     <p>Nasiyaga ham beriladi</p>
-     <input type="submit" style="background-color: green;">
-    </div>
-    <div class="het">
-     <img src="https://www.mitsubishicars.com/content/dam/mitsubishi-motors-us/images/siteimages/homepage/2024-mitsubishi-outlander-silver-dealer.jpg">
-     <p>Nomi:JASUR</p>
-     <p>NARXI:2000$</p>
-     <p>ISHI:Psixolog</p>
-     <p>Nasiyaga ham beriladi</p>
-     <input type="submit" style="background-color: green;">
-    </div>
-    <div class="het">
-     <img src="https://nar.media.audi.com/is/image/audinar/country/us/en/assets/MY25--Q6-e-tron---Front---1236(1)-1080x1920.jpg">
-     <p>Nomi:JASUR</p>
-     <p>NARXI:2000$</p>
-     <p>ISHI:Psixolog</p>
-     <p>Nasiyaga ham beriladi</p>
-     <input type="submit" style="background-color: green;">
-    </div>
-    .f{
-    	background-color: white;
-    	margin-left: 500px;
-    }
